@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Sansita');
+
+body {
+  background: image_url('ricepaper_v3.png');
+  font-family: 'Sansita', sans-serif;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+}
+ h2 {
+  float: right;
+ }
+
+h1 {
+  text-align: center;
+  font-weight: 100;
+}
+
+.color {
+  color: #7C9979;
+}
+
+p {
+  clear: both;
+}
